@@ -27,6 +27,12 @@ npm run build
 - [ ] Better docs
 - [ ] Release on steam for easy access in wallpaperEngine browser
 
+## Attributions
+- Default background photo by <a href="https://unsplash.com/@taylor_smith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor Smith</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- [Charts.js](https://github.com/chartjs/Chart.js) & [vue-chartjs](https://github.com/apertureless/vue-chartjs)
+- [Tibber API](https://developer.tibber.com/docs/overview)
+  
+
 # Development
 ### Compiles and hot-reloads for development
 ```
