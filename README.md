@@ -22,6 +22,10 @@ npm run build
 4. Add your [Tibber API key](https://developer.tibber.com/settings/accesstoken) in the wallpaper settings
 5. Click "OK"
 
+## TODOS
+- [ ] Add support for live-data via [Tibber - Pulse](https://tibber.com/no/store/produkt/pulse)
+- [ ] Better docs
+- [ ] Release on steam for easy access in wallpaperEngine browser
 
 # Development
 ### Compiles and hot-reloads for development
