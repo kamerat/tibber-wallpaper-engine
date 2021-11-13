@@ -1,0 +1,52 @@
+{
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : {
+			"schemecolor" : {
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.5019607843137255 0.4666666666666667 0.4666666666666667"
+			},
+			"showspot" : {
+				"index" : 4,
+				"order" : 104,
+				"text" : "Show spot",
+				"type" : "bool",
+				"value" : false
+			},
+			"showcost" : {
+				"index" : 3,
+				"order" : 103,
+				"text" : "Show cost",
+				"type" : "bool",
+				"value" : true
+			},
+			"showconsumption" : {
+				"index" : 2,
+				"order" : 102,
+				"text" : "Show consumption",
+				"type" : "bool",
+				"value" : true
+			},
+			"image" : {
+				"index" : 1,
+				"order" : 101,
+				"text" : "image",
+				"type" : "file",
+				"value" : ""
+			},
+			"tibberapikey" : {
+				"index" : 0,
+				"order" : 100,
+				"text" : "Tibber API key",
+				"type" : "textinput",
+				"value" : ""
+			}
+		}
+	},
+	"title" : "Tibber-wallpaper",
+	"type" : "web",
+	"version" : 0
+}
