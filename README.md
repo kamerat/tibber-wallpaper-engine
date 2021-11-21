@@ -23,7 +23,8 @@ npm run build
 5. Click "OK"
 
 ## TODOS
-- [ ] Add support for live-data via [Tibber - Pulse](https://tibber.com/no/store/produkt/pulse)
+- [x] Add support for live-data via [Tibber - Pulse](https://tibber.com/no/store/produkt/pulse)
+- [ ] Fix live-data to use users house-id
 - [ ] Better docs
 - [ ] Release on steam for easy access in wallpaperEngine browser
 
