@@ -1,4 +1,4 @@
-# tibber Graph (Wallpaper Engine Background)
+# Tibber Graph (Wallpaper Engine Background)
 
 ![Preview of wallpaper](public/preview-big.png?raw=true "Preview of wallpaper")
 
